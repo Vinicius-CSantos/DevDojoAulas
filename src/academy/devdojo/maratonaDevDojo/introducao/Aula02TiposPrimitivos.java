@@ -10,11 +10,13 @@ public class Aula02TiposPrimitivos {
         boolean verdadeiro = true;
         boolean falso = false;
         char caractere = 87;
+        String nome = "Goku";
 
         System.out.println(
                 "A idade dele é: " + age+ " anos"
         );
         System.out.println(falso);
         System.out.println(caractere);
+        System.out.println("Oi meu nome é " + nome);
     }
 }
